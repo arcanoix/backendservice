@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('dairy', 'sanabria', 'dairysanabria.90@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
+INSERT INTO clientes (nombre, apellido, email, create_at,foto) VALUES ('gustavo', 'herrera', 'gustavoh.2312@gmail.com', '2020-03-13','');
